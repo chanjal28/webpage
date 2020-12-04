@@ -7,28 +7,29 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
-<body class="bgcolor">
-  <center><p class="textstyle">We Provide The Best Trunkey Interior Design</p>
+ 
+  <center><p class="textstyle">"We Provide The Best Trunkey Interior Design"</p>
   </center>
   <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link" href="index.html">Home</a>
+        <a class="nav-link" href="index.php">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="about.html">About</a>
+        <a class="nav-link" href="about.php">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="main.html">Contact</a>
+        <a class="nav-link" href="main.php">Contact</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="sample.html">Help</a>
+        <a class="nav-link disabled" href="sample.php">Help</a>
       </li>
     </ul>
   </nav>
   <div class="container">
         <div class="row">
           <div class="col col-12 col-sm-12">
+           
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -54,8 +55,14 @@
                 <span class="sr-only">Next</span>
               </a>
             </div>   
-        </div>  
-  </div>
+        </div> 
+ 
+        <p>Interior Works provides a complete light weight construction service across many sectors including aged care, education, hospitality, retail, hospital, commercial and residential projects. Fit-Outs. Interior Works provides an impeccable service throughout the state.</p> 
+        <p>At Interior Works we work together as one team and believe that it needs all of us to achieve long term success. We are passionate about delivering outstanding outcomes for our clients and believe the key to success is our team. As a growing business we are always looking for the right people with the right experience and skills and especially those who take pride in their work with the not only complete the job, but do it right the first time. Interior Works has established itself not only as one of the best companies in Sydney within our industry, but also as a great place to work. </p>
+ 
+ 
+      </div>
+
     
    
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
