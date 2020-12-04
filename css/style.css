@@ -1,0 +1,27 @@
+.bgcolor{
+    background-color:#fff;
+
+}
+.textstyle{
+    font-size: 40px;
+    font-weight: bold;
+}
+.backcolor{
+    background: url("../images/Commercial_Interior_Design_Steven_G.jpg");
+   
+}
+.text{
+    font-size: 40px;
+    font-style: oblique;
+}
+.background{
+    background: url("../css/images/trivandrum-interior-design-dining");
+}
+.tstyle{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.color{
+    background: url("../images/11032_Hunters_View_Rd_69623_011.jpg");
+}
